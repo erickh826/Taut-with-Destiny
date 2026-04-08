@@ -1,0 +1,1 @@
+[a Hong Kong woman in her late twenties or early thirties, tired face, emotionally distressed, ordinary urban clothing, vulnerable and fragile presence]
