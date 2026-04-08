@@ -12,7 +12,7 @@ ACT 1 — 建立世界與相遇
 聲音：雨聲、遠方電車聲。
 功能：建立世界觀與氛圍。
 Prompt：
-old Sheung Wan street in Hong Kong during rainy evening, wet stone pavement, tram lines, drifting rain, neon reflections, nostalgic urban melancholy, cinematic wide establishing shot, moody blue-gray palette, 35mm film look, shot on 35mm film, anamorphic lens, moody blue-gray and warm tungsten color palette, nostalgic Hong Kong cinematic style, 8k resolution, highly detailed, masterpiece --ar 16:9
+old Sheung Wan street in Hong Kong during rainy evening, wet stone pavement, tram lines, drifting rain, reflections of faded shop signs and soft streetlights on the wet ground, nostalgic urban melancholy, cinematic wide establishing shot, moody blue-gray palette, 35mm film look, shot on 35mm film, anamorphic lens, moody blue-gray and warm tungsten color palette, nostalgic Hong Kong cinematic style, 8k resolution, highly detailed, masterpiece --ar 16:9
 
 1.2
 鏡號：2
@@ -22,7 +22,7 @@ old Sheung Wan street in Hong Kong during rainy evening, wet stone pavement, tra
 畫面：書店木製招牌「忘憂」，雨滴從屋簷落下。
 功能：建立主場景。
 Prompt：
-close-up of an old wooden bookstore sign named Wangyou, rainwater dripping from the edge, weathered texture, warm light glowing from inside, intimate nostalgic mood, shallow depth of field, shot on 35mm film, anamorphic lens, moody blue-gray and warm tungsten color palette, nostalgic Hong Kong cinematic style, 8k resolution, highly detailed, masterpiece --ar 16:9
+close-up of an old wooden bookstore sign named Wang You Bookstore, rainwater dripping from the edge, weathered texture, warm light glowing from inside, intimate nostalgic mood, shallow depth of field, shot on 35mm film, anamorphic lens, moody blue-gray and warm tungsten color palette, nostalgic Hong Kong cinematic style, 8k resolution, highly detailed, masterpiece --ar 16:9
 
 1.3
 鏡號：3
@@ -32,7 +32,7 @@ close-up of an old wooden bookstore sign named Wangyou, rainwater dripping from 
 畫面：狹窄書店內，暖黃燈，書架密集，夏星辰正在整理舊書。
 功能：女主出場。
 Prompt：
-[Xia Xingchen, 23-year-old Hong Kong woman, slim figure, pale skin, delicate East Asian features, long dark softly wavy hair, wearing a muted linen long dress], inside a small old Hong Kong bookstore, quietly arranging second-hand books on wooden shelves, warm tungsten light, dust in light beams, intimate literary atmosphere, cinematic medium shot, shot on 35mm film, anamorphic lens, moody blue-gray and warm tungsten color palette, nostalgic Hong Kong cinematic style, 8k resolution, highly detailed, masterpiece --ar 16:9
+[Xia Xingchen, 23-year-old Hong Kong woman, slim figure, pale skin, delicate East Asian features, long dark softly wavy hair, wearing a muted linen long dress], inside Wang You Bookstore, a small old Hong Kong second-hand bookstore, quietly arranging second-hand books on wooden shelves, warm tungsten light, a rain-streaked window with cool blue exterior light behind her, dust in light beams, intimate literary atmosphere, cinematic medium shot, shot on 35mm film, anamorphic lens, moody blue-gray and warm tungsten color palette, nostalgic Hong Kong cinematic style, 8k resolution, highly detailed, masterpiece --ar 16:9
 
 1.4
 鏡號：4
@@ -123,7 +123,7 @@ Cheng Ziyan walking out from deeper inside the bookstore carrying a warm cup of 
 台詞：子言低聲：「又看見了？」
 功能：關係交代。
 Prompt：
-Cinematic medium close-up, two people in an old bookstore. On the left, [Cheng Ziyan, 28-year-old Asian man, gentle features, wearing a vintage knitted sweater], gently handing a warm ceramic cup of tea to the right. On the right, [Xia Xingchen, 23-year-old Hong Kong woman, pale skin, long dark wavy hair], receiving the cup. Silent understanding between them, restrained tenderness, warm bookstore light, shot on 35mm film, anamorphic lens, moody blue-gray and warm tungsten color palette, nostalgic Hong Kong cinematic style, 8k resolution, highly detailed, masterpiece --ar 16:9
+Cinematic medium close-up, two people inside Wang You Bookstore. On the left, [Cheng Ziyan, 28-year-old Asian man, gentle features, wearing a vintage knitted sweater], gently handing a warm ceramic cup of tea to the right. On the right, [Xia Xingchen, 23-year-old Hong Kong woman, pale skin, long dark wavy hair], receiving the cup. Silent understanding between them, restrained tenderness, warm bookstore light, shot on 35mm film, anamorphic lens, moody blue-gray and warm tungsten color palette, nostalgic Hong Kong cinematic style, 8k resolution, highly detailed, masterpiece --ar 16:9
 
 1.13
 鏡號：13

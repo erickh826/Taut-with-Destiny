@@ -18,7 +18,7 @@ extreme close-up of Xia Xingchen’s eyes, pale brown-gray irises with fragile s
 畫面：宇翔的眼睛，乾淨、明亮，卻沒有任何愛情光芒。
 功能：本集核心異常。
 Prompt：
-magical point of view of Huo Yuxiang’s eyes, clear expressive gaze but containing no romantic light at all, subtly hollow in a symbolic way, restrained supernatural realism
+magical point of view of Huo Yuxiang’s eyes, clear expressive gaze but deep inside the pupils is a dead matte darkness that absorbs all romantic light and reflection, subtly unsettling, restrained supernatural realism
 
 3.3
 鏡號：27

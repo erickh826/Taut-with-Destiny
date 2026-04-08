@@ -1,51 +1,64 @@
-# Visual Bible
+# Visual Bible: 《星眸裡的白羊箭》
 
-## Film Identity
-- Title: 忘憂書店 (The Lightless Eyes)
-- Format: 35mm Cinematic Film Photography (35釐米電影攝影風格)
-- Aspect ratio: 16:9 (--ar 16:9)
-- Visual style: Nostalgic Hong Kong cinematic style (復古香港電影感), Supernatural Realism (魔幻寫實), Wong Kar-wai inspired mood (王家衛式的情緒氛圍), Melancholic but warm (憂鬱但溫暖).
+## 1. Global Aesthetic (整體美學)
+本片視覺風格揉合了「鄭梓靈式的都市憂傷」與「林詠琛式的微奇幻懸疑」。
+核心視覺策略是**「對比與釋放」**：利用地理位置（香港 vs 台灣）的光影與色彩差異，外化女主角夏星辰從封閉到敞開心扉的心理過程。
 
-## Color System
-- Primary palette: Moody Blue-Gray (冷調雨夜藍灰) vs. Warm Tungsten (溫暖鎢絲燈黃). 這組強烈的冷暖對比是本作的核心視覺。
-- Secondary palette: Faded Sepia (褪色復古棕 - 用於舊照片與回憶), Muted Earthy tones (低飽和大地色 - 用於星辰與子言的服裝).
-- Forbidden colors: 絕對禁止高飽和度的塑膠感螢光色 (Neon/Cyberpunk colors)、明亮的糖果色 (Candy colors)、純白無瑕的死白光。
-- ACT1 color notes: 強調「外冷內暖」的對比。雨夜的藍色極度冷冽，書店內的黃光極度溫暖，建立星辰與世隔絕的安全區。
-- ACT2 color notes: 色彩開始融合。隨著兩人一起追查線索，畫面中會加入更多底片相機的復古色調 (Vintage film tones) 與茶餐廳的懷舊綠/橘色。
-- ACT3 color notes: 陰影加深，但在最暗的場景中會出現象徵希望的微光 (Subtle warm light)。男主眼中的光芒是全劇最純粹的暖色亮點。
+## 2. Color & Lighting Rules (色彩與光影規則)
 
-## Lighting Rules
-- Exterior night: High contrast (高對比), Wet surfaces reflecting ambient light (濕潤路面反射環境光), Cinematic chiaroscuro (電影級明暗對比).
-- Interior bookstore: Warm practical lights (溫暖的場景光源/檯燈), Soft diffused shadows (柔和的漫反射陰影), Rim lighting on characters (人物邊緣的輪廓光，讓人物從暗部凸顯).
-- Taiwan daylight (回憶): Nostalgic sunlight (懷舊日光), Slightly overexposed (微微過曝的日系底片感), Soft and airy (柔和通透).
-- Crisis scenes: Harsher shadows (更生硬的陰影), Cooler tones dominating (冷色調主導), Isolating spotlights (孤立人物的聚光燈效應).
-- Ending scenes: Gentle, balanced warm light (柔和平衡的暖光), Soft dawn or clearing rain (清晨或雨過天晴的漫射光).
+### A. 香港：壓抑的雨季 (The Cage)
+- **時間線：** 主線現實 (Act 1, Act 3)
+- **色彩計畫 (Color Palette)：** 冷調為主。青藍色 (Cyan/Blue)、灰綠色、褪色的木質調。
+- **光影特性：** 漫射光 (Soft/Diffused light)、陰天、無處不在的雨水反光。書店內部則是低對比的暖暗色調，像一個與世隔絕的防空洞。
+- **視覺意義：** 象徵星辰封閉的內心、命中注定的無力感，以及潛伏的危機。
 
-## Lens / Framing Rules
-- Default lens feeling: Anamorphic lens (變形寬銀幕鏡頭), Shallow depth of field (淺景深 / 背景虛化), Beautiful bokeh (唯美的散景).
-- Default shot sizes: Medium Close-Up (MCU - 中近景) 用於對話與情緒捕捉；Wide Shot (WS - 遠景) 用於表現人物在環境中的孤獨感。
-- Default camera movement: (AI 提示詞轉化) Static but breathing (靜態但有呼吸感), Cinematic composition (電影級構圖), Rule of thirds (三分法構圖).
-- Close-up rules: Macro focus (微距對焦). 尤其是拍攝「眼睛」、「指尖觸碰」、「舊照片紋理」時，必須極度清晰，背景完全虛化。
-- Insert shot rules: Highly detailed (極高細節). 舊物、茶杯、底片等特寫必須帶有歲月痕跡與真實的物理質感。
+### B. 台灣：耀眼的星空與豔陽 (The Release)
+- **時間線：** 主線現實 (Act 2, 結局) - **絕對不是回憶**
+- **色彩計畫 (Color Palette)：** 暖調為主。金黃色 (Golden Yellow)、橘色 (Orange)、海藍色。
+- **光影特性：** 直射的強烈陽光 (Hard sunlight)、高對比、充滿生命力的光暈 (Lens flare)、夜市的霓虹與煙火氣。
+- **視覺意義：** 象徵男主霍宇翔帶來的白羊座熱情、自由、青春的悸動與靈魂的釋放。
 
-## Texture / Rendering Rules
-- Film grain: Noticeable 35mm film grain (明顯的35mm底片顆粒感), Analog texture (類比/物理材質感), 拒絕過度平滑的 AI 塑膠感。
-- Skin realism: Natural skin texture (真實皮膚紋理), Visible pores (可見的毛孔), Slight moisture (微濕潤感/汗水或雨水), 無濾鏡感。
-- Rain / mist / atmosphere: Volumetric fog (體積霧), Light scattering through rain (光線在雨中散射), Cinematic atmosphere (電影級空氣感).
-- Detail level: 8k resolution, highly detailed, masterpiece (提示詞必備後綴，確保算圖引擎給出最高精度).
+### C. 真正的回憶段落 (The Ghosts of the Past)
+- **時間線：** 過去 (哥哥的意外、上一代的恩怨)
+- **視覺處理：**
+  - **底片失真感 (Film halation & grain)：** 邊緣帶有輕微的模糊與漏光 (Light leaks)。
+  - **色彩抽離：** 降低飽和度 (Desaturated)，或者帶有一層淡淡的鐵鏽色 (Rusty tint)，與主線的香港/台灣做出明確的視覺區隔。
 
-## Character Continuity Rules
-- Xia Xingchen (夏星辰): 23歲香港女孩。蒼白皮膚，精緻東亞五官，淺灰褐色眼睛 (發動能力時如星塵般易碎)，深色微捲長髮，常穿低飽和亞麻長洋裝。氣質冷淡、疏離、防備。
-- Huo Yuxiang (霍宇翔): 25歲台灣男孩。陽光帥氣，帶有少年感與虎牙。初登場時頭髮被雨淋濕微亂，穿防風休閒外套，肩背復古底片相機。氣質熱情、執著，但眼底深處有無法掩飾的創傷(無光)。
-- Cheng Ziyan (程子言): 28歲亞洲男性。成熟溫和，常穿復古針織毛衣。氣質沉穩，是書店的守護者，眼神總是帶著默默的關心。
-- Support characters (配角): 臉部特徵通常處於陰影中或輕微失焦 (Slightly out of focus)，不搶奪主角焦點。
+### D. 全片通用禁則 (Forbidden Looks)
+- 絕對避免高飽和塑膠感的霓虹色、糖果色和 cyberpunk 式發光邊緣。
+- 避免純白無陰影的平光與過度磨皮的 AI 塑膠皮膚。
+- 雨夜與白天都應保留空氣感、材質感與真實環境光來源。
 
-## Location Continuity Rules
-- Wangyou bookstore (忘憂書店): 位於上環斜坡。內部是深色老木頭書架，堆滿舊書與雜物，有溫暖的鎢絲檯燈。大片玻璃窗能看見外面的雨夜街道。
-- Hong Kong street (香港街道): 狹窄、有坡度 (上環階梯)、濕漉漉的石板或柏油路面、遠處有模糊的復古霓虹燈招牌 (不刺眼)。
-- Taiwan locations (台灣場景): 陽光充足的老舊巷弄、紅磚牆、充滿生活氣息的舊照相館。
+## 3. Camera & Framing (攝影與構圖)
+- **香港段落：** 鏡頭多為**靜態 (Static) 或緩慢平移**。大量使用**淺景深 (Shallow DoF)** 與前景遮擋（如窗框、書架、雨滴），將星辰困在畫面中，構圖擁擠狹窄。
+- **台灣段落：** 鏡頭轉為**手持 (Handheld)** 或流暢的動態跟拍。大量使用**廣角鏡頭 (Wide angle)** 與深景深，展現花蓮的海闊天空與九份的壯麗，構圖開闊自由。
+- **特寫規則：** 眼睛、指尖觸碰、舊照片、底片相機等 insert shot 應使用極高細節與淺景深，讓情緒與道具都有可讀性。
+- **預設鏡頭語言：** 保留電影感的 breathing stillness；即使是靜態鏡頭，也應讓光影、雨水、前景或角色呼吸形成微動態。
 
-## Existing Reference Paths
+## 4. VFX: The "Starry Eyes" Mechanics (奇幻視覺特效)
+女主角發動能力（看透愛情命運）時，畫面需有明確的視覺轉換：
+1. **進入主觀視角 (POV)：** 畫面邊緣微微變暗 (Vignette)，環境音瞬間抽空。
+2. **常態的眼瞳：** 星辰的特寫中，眼瞳呈現極淺的琥珀色或灰藍色，帶有微弱的星塵反光。
+3. **「無光」狀態（如初遇宇翔）：** 當她看向對方眼睛，對方的瞳孔深處是一片死寂的深黑色，像是一個吸收所有光線的黑洞（象徵靈魂殘缺 / 無愛的能力）。
+4. **「血紅預言」狀態（如台灣告白）：** 對方瞳孔深處先是亮起溫暖的微光，接著瞬間扭曲、爆發成刺眼且帶有侵略性的**血紅色 (Blood-red glare)**，甚至在畫面上產生紅色的光暈感染（象徵毀滅與死亡的劫難）。
+
+## 5. Character Styling Notes (角色造型基礎)
+- **夏星辰 (女主)：** 棉麻質地、長裙、低飽和度的大地色或冷灰色系。妝容清淡，強調眼神的清冷與疏離。
+- **霍宇翔 (男主)：** 亮色系（如白色、芥末黃、丹寧）、老式底片相機（關鍵道具）、隨性且帶有磨損痕跡的帆布鞋。
+- **程子言 (男二)：** 剪裁得體的深色針織衫或襯衫、金絲眼鏡、給人沉穩與保護感的深色系（海軍藍、深棕色）。
+
+## 6. Texture & Rendering Rules (材質與算圖規則)
+- **Film grain：** 明顯但不粗暴的 35mm 底片顆粒感，保留 analog texture，拒絕過度平滑的 AI 塑膠感。
+- **Skin realism：** 真實皮膚紋理、可見毛孔、微濕潤感，避免濾鏡化磨皮。
+- **Rain / mist / atmosphere：** 使用 volumetric fog、雨中散射光與環境霧氣，維持電影級空氣感。
+- **Detail level：** 提示詞可保留 `highly detailed`, `cinematic`, `analog texture` 等關鍵詞，但避免為了高精度而破壞整體風格一致性。
+
+## 7. Location Continuity Rules (場景連續性)
+- **忘憂書店 / 書店空間：** 位於上環斜坡附近，深色老木書架、舊書、雜物、鎢絲檯燈、可見雨夜街道的大玻璃窗。
+- **香港街道：** 狹窄、有坡度、潮濕石板或柏油路、遠處有模糊復古招牌與反光，不走 cyberpunk 霓虹方向。
+- **台灣場景：** 陽光充足的老巷、紅磚牆、舊照相館、海邊或山城視野開闊處，整體帶生活感與呼吸感。
+
+## 8. Existing Reference Paths
 - `storyboard/comment_prompt.md`
 - `Scene/camera language tags/_index.md`
 - `Scene/scene_prompt/`

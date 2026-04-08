@@ -18,7 +18,7 @@ Xia Xingchen and Huo Yuxiang standing before an abandoned old photo studio in Ho
 畫面：鏽蝕招牌、斑駁字樣。
 功能：時間感。
 Prompt：
-close-up of a faded old photo studio signboard and rusted metal details, forgotten urban memory, cinematic texture shot
+close-up of a faded old photo studio signboard and rusted metal details, time-worn urban melancholy, cinematic texture shot
 
 7.3
 鏡號：68
@@ -27,7 +27,7 @@ close-up of a faded old photo studio signboard and rusted metal details, forgott
 畫面：昏暗樓梯、黃牆、老信箱。
 功能：懸疑與追尋。
 Prompt：
-narrow dim stairwell inside an old Hong Kong building, yellowed walls, weak overhead light, dust, old mailboxes, lingering memory atmosphere
+narrow dim stairwell inside an old Hong Kong building, yellowed walls, weak overhead light, dust, old mailboxes, abandoned time-worn atmosphere
 
 7.4
 鏡號：69

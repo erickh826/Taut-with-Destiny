@@ -9,7 +9,7 @@
 畫面：兩人在濕巷中前行。
 功能：雙主角關係戲開始。
 Prompt：
-Xia Xingchen and Huo Yuxiang walking through a narrow wet Hong Kong alley, old walls, faded signs, humid atmosphere, emotional contrast, cinematic tracking shot feel
+Xia Xingchen and Huo Yuxiang walking through a narrow wet Hong Kong alley, old walls, faded signs, humid atmosphere, cool gray-blue rain light, emotional contrast, cinematic tracking shot feel
 
 5.2
 鏡號：41
@@ -36,7 +36,7 @@ Huo Yuxiang playfully imitating Xia Xingchen’s serious expression while walkin
 畫面：星辰嘴角幾乎要動，卻忍住。
 功能：情感極小幅鬆動。
 Prompt：
-close-up of Xia Xingchen almost smiling but holding it back, restrained emotional shift, soft rainy daylight
+close-up of Xia Xingchen almost smiling but holding it back, restrained emotional shift, soft diffused rainy daylight, cool gray-blue tones
 
 5.5
 鏡號：44
@@ -45,7 +45,7 @@ close-up of Xia Xingchen almost smiling but holding it back, restrained emotiona
 畫面：宇翔拿照片比對街景角度。
 功能：任務推進。
 Prompt：
-Huo Yuxiang holding up an old photograph and comparing it with the real Hong Kong street, searching for the exact angle, documentary realism with poetic atmosphere
+Huo Yuxiang holding up an old photograph and comparing it with the real Hong Kong street, searching for the exact angle, weathered shop signs and damp walls around him, documentary realism with poetic atmosphere
 
 5.6
 鏡號：45
@@ -90,7 +90,7 @@ intimate close moment between Xia Xingchen and Huo Yuxiang, faces very near, bre
 畫面：她又看進他的眼睛，還是沒有光。
 功能：愛與規則的衝突。
 Prompt：
-magical point of view into Huo Yuxiang’s eyes again, still no romantic light inside them, emotional confusion and tension, restrained fantasy realism
+magical point of view into Huo Yuxiang’s eyes again, still no romantic light inside them, deep matte darkness in the pupils absorbing reflection, emotional confusion and tension, restrained fantasy realism
 
 5.11
 鏡號：50
@@ -99,7 +99,7 @@ magical point of view into Huo Yuxiang’s eyes again, still no romantic light i
 畫面：老店主被照片吸引，主動搭話。
 功能：新線索。
 Prompt：
-an elderly local shop owner speaking to Xia Xingchen and Huo Yuxiang on an old street after noticing the photograph, weathered surroundings, quiet breakthrough moment
+an elderly local shop owner speaking to Xia Xingchen and Huo Yuxiang on an old Hong Kong street after noticing the photograph, weathered surroundings, quiet breakthrough moment
 
 5.12
 鏡號：51
@@ -108,7 +108,7 @@ an elderly local shop owner speaking to Xia Xingchen and Huo Yuxiang on an old s
 畫面：老店主指出一間早已關閉的老照相館。
 功能：下一場目的地。
 Prompt：
-elderly shop owner pointing toward a forgotten old photo studio location while Xia Xingchen and Huo Yuxiang listen carefully, cinematic urban realism
+elderly shop owner pointing toward a long-closed old photo studio location while Xia Xingchen and Huo Yuxiang listen carefully, cinematic urban realism
 
 5.13
 鏡號：52

@@ -9,7 +9,7 @@
 畫面：風鈴聲，門被推開，雨氣灌進來。
 功能：氣氛切換。
 Prompt：
-the door of an old Hong Kong bookstore suddenly opening as rain and wind rush in, strong contrast between storm outside and warm light inside, cinematic entrance shot
+the door of Wang You Bookstore suddenly opening as rain and wind rush in, strong contrast between the cold storm outside and the warm tungsten light inside, cinematic entrance shot
 
 2.2
 鏡號：16
@@ -18,7 +18,7 @@ the door of an old Hong Kong bookstore suddenly opening as rain and wind rush in
 畫面：霍宇翔站在門口，全身濕透，抱著牛皮紙袋與老相機。
 功能：男主第一印象。
 Prompt：
-Huo Yuxiang standing at the bookstore entrance drenched from rain, carrying a vintage film camera and protecting a paper envelope, energetic presence, warm interior light on his face
+Huo Yuxiang standing at the entrance of Wang You Bookstore drenched from rain, carrying a vintage film camera and protecting a paper envelope, energetic presence, warm interior light on his face, cool rainy street behind him
 
 2.3
 鏡號：17
@@ -36,7 +36,7 @@ close-up of Huo Yuxiang smiling warmly with small tiger teeth, wet hair, lively 
 畫面：星辰抬眼，冷淡打量。
 功能：兩人反差。
 Prompt：
-Xia Xingchen behind the bookstore counter, looking at the newly arrived man with a calm distant faintly annoyed expression, cinematic medium close-up
+Xia Xingchen behind the counter of Wang You Bookstore, looking at the newly arrived man with a calm distant faintly annoyed expression, warm tungsten light and cool rainy window glow, cinematic medium close-up
 
 2.5
 鏡號：19
@@ -55,7 +55,7 @@ close-up of old film negatives, faded printed photographs, and a worn paper enve
 台詞重點：照片是哥哥留下的最後線索。
 功能：主線啟動。
 Prompt：
-Huo Yuxiang speaking urgently across the bookstore counter, showing old photographs to Xia Xingchen, emotional contrast between his bright insistence and her reserve, cinematic two-shot
+Huo Yuxiang speaking urgently across the counter of Wang You Bookstore, showing old photographs to Xia Xingchen, emotional contrast between his bright insistence and her reserve, warm interior light against cool rainy street glow, cinematic two-shot
 
 2.7
 鏡號：21
@@ -73,7 +73,7 @@ close-up of a faded old photograph showing a blurred Hong Kong street and a myst
 畫面：宇翔說自己從台灣來，只剩這些東西。
 功能：男主背景。
 Prompt：
-Huo Yuxiang standing in warm bookstore light, speaking with sincerity beneath playful energy, rain behind him, vintage camera over his shoulder, cinematic medium shot
+Huo Yuxiang standing in warm bookstore light, speaking with sincerity beneath playful energy, rain-streaked glass and cool blue street light behind him, vintage camera over his shoulder, cinematic medium shot
 
 2.9
 鏡號：23
@@ -82,7 +82,7 @@ Huo Yuxiang standing in warm bookstore light, speaking with sincerity beneath pl
 畫面：子言在書架後看著兩人。
 功能：男二視角介入。
 Prompt：
-Cheng Ziyan standing quietly behind bookshelves, observing Xia Xingchen and Huo Yuxiang from a distance, subtle protectiveness, warm dim shadows
+Cheng Ziyan standing quietly behind bookshelves inside Wang You Bookstore, observing Xia Xingchen and Huo Yuxiang from a distance, subtle protectiveness, warm dim shadows
 
 2.10
 鏡號：24

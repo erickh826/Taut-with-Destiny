@@ -9,7 +9,7 @@
 畫面：大雨忽然傾盆，兩人奔跑。
 功能：場景轉換動力。
 Prompt：
-Xia Xingchen and Huo Yuxiang running through sudden heavy rain on a Hong Kong street, wet pavement, blurred city lights, cinematic motion
+Xia Xingchen and Huo Yuxiang running through sudden heavy rain on a Hong Kong street, wet pavement, blurred soft streetlights, cinematic motion
 
 6.2
 鏡號：54
@@ -72,7 +72,7 @@ Huo Yuxiang lowering his gaze to old photographs in his hand, playful energy gon
 畫面：台灣海邊，兩兄弟奔跑。
 功能：情感記憶畫面。
 Prompt：
-nostalgic memory fragment of two brothers running by the seaside in Taiwan, wind, ocean light, soft faded colors, dreamlike but realistic cinematic memory
+flashback memory fragment of two brothers running by the seaside in Taiwan, wind, ocean light, desaturated colors with a faint rusty tint, subtle film halation, light leaks, visible grain, realistic cinematic memory
 
 6.9
 鏡號：61
@@ -81,7 +81,7 @@ nostalgic memory fragment of two brothers running by the seaside in Taiwan, wind
 畫面：哥哥把相機塞給更年輕的宇翔。
 功能：物件傳承。
 Prompt：
-memory close-up of an older brother placing a film camera into a younger brother’s hands by the seaside, emotional tenderness, faded nostalgic light
+flashback close-up of an older brother placing a film camera into a younger brother’s hands by the seaside, emotional tenderness, desaturated nostalgic light, subtle film halation, faint rusty tint, visible grain
 
 6.10
 鏡號：62
