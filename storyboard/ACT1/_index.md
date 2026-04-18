@@ -9,3 +9,8 @@ Establishes the world, the female lead's ability, and the male lead's entrance.
 | `board1.md` | 場次 1 — 上環雨夜與忘憂書店 | ~4 min | World-building, Xia Xingchen's ability, Cheng Ziyan intro |
 | `board2.md` | 場次 2 — 霍宇翔闖入 | ~4 min | Male lead high-energy entrance, contrasts with female lead, drops main mission |
 | `board3.md` | 場次 3 — 她看進他的眼睛，卻看不見光 | ~3 min | Core hook — Yuxiang's eyes have no light (exception established) |
+
+## Working Folders
+| Folder | Purpose |
+|--------|---------|
+| `board1/` | prompt log, image folder, and selected outputs for `board1.md` |

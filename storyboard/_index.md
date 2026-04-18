@@ -10,6 +10,7 @@ scene number, shot length, framing, movement, dialogue, and image prompts.
 | `characters.md` | Fixed base prompt for all 3 leads (copy-paste into any prompt) |
 | `comment_prompt.md` | Shared cinematic style suffix for all storyboard prompts |
 | `placeholder.md` | Reusable atmosphere + interaction placeholder tags |
+| `SOP.md` | Working method for board prompt folders and generated images |
 
 ## Subfolders
 | Folder | Scenes | Story Beat |
